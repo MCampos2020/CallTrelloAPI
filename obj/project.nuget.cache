@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vX2lAT4Z2tfs4RWU5FX0fiTltbAft/y5zUxDPHBICZqeM0ChXBN61PeMEpxs9Cp+2paehY1dmOvRZ15kd5XJGw==",
+  "success": true,
+  "projectFilePath": "C:\\MCAMPOS\\Estudos_2022\\DesafioMJVCallAPI\\DesafioMJVCallAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Convidado1\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
